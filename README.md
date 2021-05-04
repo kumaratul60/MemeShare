@@ -27,10 +27,10 @@ Snapshots of the project 👇
 ![Alt Text](snap1.jpeg?raw=true "Title")
 
 Snapshots of the project 👇
-![Alt Text](snap2.png?raw=true "Title")
+![Alt Text](snap2.jpeg?raw=true "Title")
 
 Snapshots of the project 👇
-![Alt Text](snap3.png?raw=true "Title")
+![Alt Text](snap3.jpeg?raw=true "Title")
 
 Snapshots of the project 👇
-![Alt Text](snap4.png?raw=true "Title")
+![Alt Text](snap4.jpeg?raw=true "Title")
