@@ -22,3 +22,15 @@ onRestart	=> called after your activity is stopped, prior to start.
 
 onDestroy	=> called before the activity is destroyed.
 to complete all necessary activities of application.
+
+Snapshots of the project 👇
+![Alt Text](snap1.png?raw=true "Title")
+
+Snapshots of the project 👇
+![Alt Text](snap2.png?raw=true "Title")
+
+Snapshots of the project 👇
+![Alt Text](snap3.png?raw=true "Title")
+
+Snapshots of the project 👇
+![Alt Text](snap4.png?raw=true "Title")
