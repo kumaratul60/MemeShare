@@ -24,13 +24,21 @@ onDestroy	=> called before the activity is destroyed.
 to complete all necessary activities of application.
 
 Snapshots of the project 👇
+
 ![Alt Text](snap1.jpeg?raw=true "Title")
 
+
 Snapshots of the project 👇
+
 ![Alt Text](snap2.jpeg?raw=true "Title")
 
-Snapshots of the project 👇
-![Alt Text](snap3.jpeg?raw=true "Title")
 
 Snapshots of the project 👇
+
+![Alt Text](snap3.jpeg?raw=true "Title")
+
+
+Snapshots of the project 👇
+
 ![Alt Text](snap4.jpeg?raw=true "Title")
+
