@@ -1,4 +1,4 @@
-# MemeShare
+# Meme-Share
  Developed an application to make you enjoy random memes from Reddit by making use of Android Backend API (Volley) to make requests to a random meme API to fetch memes data into,
  JSON (JavaScript Object Notation) format which  standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications .
  
